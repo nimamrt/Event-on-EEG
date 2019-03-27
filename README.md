@@ -1,5 +1,5 @@
 # Event-on-EEG
-How to create and import event on EEG signals in matlab
+How to create and import event on EEG signals in the matlab
 
 1. Download the file then copy to a folder
 2. Set path this folder in environment section in matlab
